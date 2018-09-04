@@ -100,7 +100,7 @@
           <div class="col-lg-12">
 
             <!-- Who We Are -->
-            <section class="section">
+            <section class="section" id="whoweare">
               <div class="container">
                 <div class="row justify-content-center">
                   <div class="col-lg-8 text-center">

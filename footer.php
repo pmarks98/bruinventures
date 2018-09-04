@@ -27,23 +27,39 @@
       </div>
       <hr>
       <div class="row align-items-center justify-content-md-between">
-        <div class="col-md-6">
+        <div class="col-md-4">
           <div class="copyright">
             &copy; 2018
-            <a href="https://www.uclabv.com/" target="_blank">Bruin Ventures</a>
+            <a href="./index.php" target="_blank">Bruin Ventures</a>
           </div>
+
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
+            <ul class="nav nav-footer justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://startupucla.com/">
+                        <img src="../assets/img/partners/startupUCLA.png" class="img-left img-fluid " style="width: 100px;">
+                    </a>
+                </li>
+                <li class="nav-item pt-3">
+                    <a class="nav-link" target="_blank" href="https://startupucla.com/blackstone-launchpad/">
+                        <img src="../assets/img/partners/BlackstoneLaunchpad.png" class="img-left img-fluid " style="width: 100px;">
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-md-4">
           <ul class="nav nav-footer justify-content-end">
             <li class="nav-item">
-              <a href="#" class="nav-link" target="_blank">Bruin Ventures</a>
+              <a href="./index.php" class="nav-link">Bruin Ventures</a>
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link" target="_blank">About Us</a>
+              <a href="./index.php" class="nav-link">About Us</a>
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link" target="_blank">Blog</a>
+              <a class="nav-link" target="_blank">Blog</a>
             </li>
+
           </ul>
         </div>
       </div>

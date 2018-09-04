@@ -25,19 +25,19 @@
         </div>
         <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
           <li class="nav-item dropdown">
-            <a href="#" class="nav-link" data-toggle="dropdown" href="#" role="button">
+            <a href="./team.php" class="nav-link" role="button">
               <i class="fa fa-users d-lg-none"></i>
               <span class="nav-link-inner--text">Team</span>
             </a>
           </li>
           <li class="nav-item dropdown">
-              <a href="#" class="nav-link" data-toggle="dropdown" href="#" role="button">
+              <a href="#programs" class="nav-link" data-toggle="dropdown" role="button">
               <i class="fa fa-university d-lg-none"></i>
               <span class="nav-link-inner--text">Programs</span>
             </a>
             <div class="dropdown-menu dropdown-menu-xl">
               <div class="dropdown-menu-inner">
-                <a href="#programs" class="media d-flex align-items-center" data-toggle="scroll">
+                <a href="./bvresearch.php" class="media d-flex align-items-center" data-toggle="scroll">
                   <div class="icon icon-shape bg-gradient-info rounded-circle text-white">
                     <i class="ni ni-spaceship"></i>
                   </div>
@@ -46,7 +46,7 @@
                     <p class="description d-none d-md-inline-block mb-0">Learn the fundamentals of startup research, modeled from due-diligence methods from venture capital firms.</p>
                   </div>
                 </a>
-                <a href="#programs" class="media d-flex align-items-center" data-toggle="scroll">
+                <a href="./bvbuild.php" class="media d-flex align-items-center" data-toggle="scroll">
                   <div class="icon icon-shape bg-gradient-warning rounded-circle text-white">
                     <i class="fa fa-cogs"></i>
                   </div>
@@ -55,7 +55,7 @@
                     <p class="description d-none d-md-inline-block mb-0">A track devoted to brainstorming, developing, and building a startup from the ground-up.</p>
                   </div>
                 </a>
-                <a href="#programs" class="media d-flex align-items-center" data-toggle="scroll">
+                <a href="./bvconnect.php" class="media d-flex align-items-center" data-toggle="scroll">
                   <div class="icon icon-shape bg-gradient-primary rounded-circle text-white">
                     <i class="fa fa-random"></i>
                   </div>
@@ -68,7 +68,7 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a href="#" class="nav-link" data-toggle="dropdown" href="#" role="button">
+            <a href="./partners.php" class="nav-link" role="button">
               <i class="fa fa-handshake-o d-lg-none"></i>
               <span class="nav-link-inner--text">Partners</span>
             </a>
