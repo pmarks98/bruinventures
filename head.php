@@ -15,3 +15,17 @@
   <!-- Docs CSS -->
   <link type="text/css" href="./assets/css/docs.min.css" rel="stylesheet">
 </head>
+<?php
+//connect to SQL database
+include("includes/connect.php");
+
+//define password hashing function
+function cryptPass($input, $rounds = 9) {
+$salt = "";
+$saltChars = array_merge(range('A', 'Z'), range('a', 'z'), range(0, 9));
+for($i = 0; $i < 22; $i++) {
+$salt .= $saltChars[array_rand($saltChars)];
+}
+return crypt($input, sprintf('$2y$%02d$', $rounds) . $salt);
+}
+?>
