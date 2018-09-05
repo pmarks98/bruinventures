@@ -41,7 +41,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `firstName`, `lastName`, `email`, `password`) VALUES
-(1, 'Abdullah', 'Elqaq', 'abdullahelqaq@gmail.com', '$2y$09$6VMB9ykc8joRaFZszHd36Oc6UEmVN0SnZu/Vmd7MGtHWmjiqOqEzC');
+(1, 'Abdullah', 'Elqaq', 'abdullahelqaq@gmail.com', '$2y$09$6VMB9ykc8joRaFZszHd36Oc6UEmVN0SnZu/Vmd7MGtHWmjiqOqEzC'),
+(2, 'Joe', 'Bruin', 'contact@uclabv.com', '$2y$09$DcqLdySkEBvDScM6pFyyTOzN8WlfuYB.5fDygxDrlFwW8O6zKApfq');
+
 
 --
 -- Indexes for dumped tables
