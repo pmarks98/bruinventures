@@ -33,7 +33,12 @@
                   Our Partners
                 </h1>
                 <p class="lead text-white ">Everything starts by building connections and we owe great thanks to our partners' financial and educational contributions.</p>
-
+                <div class="btn-wrapper">
+                  <a target="_blank" href="mailto:contact@uclabv.com?subject=BV%20Partnership&body=Hi, my name is [insert name].%0D%0AI would love for [insert yourself/business] to partner with Bruin Ventures. [Insert Additional Information]. Looking forward to hearing back!%0D%0A%0D%0ASincerely,%0D%0A[insert name]" class="btn btn-info btn-icon mb-0 mb-sm-0">
+                    <span class="btn-inner--icon"><i class="fa fa-exchange"></i></span>
+                    <span class="btn-inner--text">Become a Partner</span>
+                  </a>
+              </div>
               </div>
             </div>
           </div>

@@ -24,6 +24,12 @@
           <span></span>
           <span></span>
           <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
         </div>
         <div class="container  shape-container d-flex pb-5">
           <div class="col px-0 pb-4">

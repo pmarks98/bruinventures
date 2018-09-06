@@ -210,16 +210,27 @@
         <h2 class="h2 text-primary font-weight-bold mb-4">Associate Training</h2>
           <div class="row justify-content-left">
             <div class="col-lg-10">
-             <p> <span class="font-weight-bold">Every year, Bruin Ventures will accept about 20 analysts, out of hundreds.</span> By doing so, we grow our club with students </p>
+             <p> <span class="font-weight-bold">Every year, Bruin Ventures carefully accepts ~20 analysts from over hundreds of applications.</span>
+                 Each accepted individual has the qualities neccessary to be a integral member in the growth of our club and has a passion to learn and to grow.
+                 Becoming a member of BV is an exciting time and is a hands-on learning experience that cannot be matched in the classroom.
+            </p>
+            <p>
+                A new member's first quarter will consist of an academically rigorous curriculum designed to introduce the fundamentals of Entrepreneurship, Venture Capital, and other important skills (resume preparation, public-speaking, cold/warm emailing, etc.).
+                Each week's events will follow a schedule filled with hands-on and project-based assignments, workshops, social outings, speaker series, or startup-tours.
+            </p>
+            <p>
+                Although the time commitment may seem daunting, our organization aims to ensure each member has plenty of support through our mentorship program.
+                This program pairs at least one senior member with each new associate member to be a guide and resource for years to come.
+            </p>
+            <p>
+                For more information, details, or questions, reach out to our new analyst director and we will gladly help in any way we can.
+            </p>
              <div class="row">
                  <div class="col m-0">
                     <p class="m-0"><span class="h6">New Analyst Director: </span>Kevin Yu</p>
                     <p class="m-0 text-warning"><span class="h6">Email: </span><a href="#" class="text-warning">kyu@uclabv.com</a></p>
                  </div>
-                 <div class="col m-0">
-                    <p class="m-0"><span class="h6">New Analyst Director: </span>Joesph Rainey</p>
-                    <p class="m-0"><span class="h6">Email: </span><a href="#" class="text-warning">jrainey@uclabv.com</a></p>
-                 </div>
+
              </div>
             </div>
           </div>

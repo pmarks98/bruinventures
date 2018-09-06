@@ -32,8 +32,8 @@
                 <h1 class="display-3  text-white">
                   BV BUILD
                 </h1>
-                <p class="lead text-white ">A track devoted to brainstorming, developing, and building a startup from the ground-up.</p>
-                <div class="btn-wrapper">
+                <p class="lead text-white ">A track devoted to brainstorming and developing a start-up from the ground-up.</p>
+                <!--<div class="btn-wrapper">
                   <a href="#" class="btn btn-info btn-icon mb-0 mb-sm-0">
                     <span class="btn-inner--icon"><i class="fa fa-code"></i></span>
                     <span class="btn-inner--text">Components</span>
@@ -42,7 +42,7 @@
                     <span class="btn-inner--icon"><i class="ni ni-cloud-download-95"></i></span>
                     <span class="btn-inner--text">Download HTML</span>
                   </a>
-                </div>
+              </div>-->
               </div>
             </div>
           </div>
@@ -50,20 +50,25 @@
     </section>
     </div>
 
-    <section class="section section-lg my-0 py-0">
+    <section class="section section-lg my-2 py-0">
       <div class="container">
         <div class="row row-grid align-items-center">
-          <div class="col-md-6 order-md-2">
-            <img src="./assets/img/theme/promo-1.png" class="img-fluid floating">
-          </div>
           <div class="col-md-6 order-md-1">
-            <div class="pr-md-5">
-              <div class="icon icon-lg icon-shape icon-shape-success shadow rounded-circle mb-5">
-                <i class="ni ni-settings-gear-65"></i>
-              </div>
-              <h3>Awesome features</h3>
-              <p>The kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go.</p>
-              <ul class="list-unstyled mt-5">
+            <img src="./assets/img/theme/appdev.png" class="img-fluid floating">
+          </div>
+          <div class="col-md-6 order-md-2">
+            <div class="pr-md-4">
+              <h3>Bring an Idea to Life</h3>
+              <p>
+                  Working with a team of 3-5 students, this quarter-long program gives members an oppurtunity to develop a technical product with the aim of expanding into a full-fledged startup.
+              </p>
+              <p>
+                  Bruin Ventures is the only UCLA organization that encourages the development of a technical project from the standpoint of a Venture Capitalist.
+              </p>
+              <p>
+                  The products we make are <span class="h6">impactful</span>, the problems we solve are <span class="h6">real</span>, and the businesses models we create are <span class="h6">compelling</span>.
+              </p>
+              <ul class="list-unstyled mt-5 ml-2">
                 <li class="py-2">
                   <div class="d-flex align-items-center">
                     <div>
@@ -72,7 +77,7 @@
                       </div>
                     </div>
                     <div>
-                      <h6 class="mb-0">Carefully crafted components</h6>
+                      <h6 class="mb-0">No Experience Necessary</h6>
                     </div>
                   </div>
                 </li>
@@ -80,11 +85,11 @@
                   <div class="d-flex align-items-center">
                     <div>
                       <div class="badge badge-circle badge-success mr-3">
-                        <i class="ni ni-html5"></i>
+                        <i class="fa fa-html5"></i>
                       </div>
                     </div>
                     <div>
-                      <h6 class="mb-0">Amazing page examples</h6>
+                      <h6 class="mb-0">Technical, Design, and Business Focused</h6>
                     </div>
                   </div>
                 </li>
@@ -92,11 +97,11 @@
                   <div class="d-flex align-items-center">
                     <div>
                       <div class="badge badge-circle badge-success mr-3">
-                        <i class="ni ni-satisfied"></i>
+                        <i class="fa fa-money"></i>
                       </div>
                     </div>
                     <div>
-                      <h6 class="mb-0">Super friendly support team</h6>
+                      <h6 class="mb-0">Grants Available for Outstanding Projects</h6>
                     </div>
                   </div>
                 </li>
@@ -106,32 +111,53 @@
         </div>
       </div>
     </section>
-    <section class="section ">
+    <section class="section section-lg my-2 mt-5 py-0">
       <div class="container">
         <div class="row row-grid align-items-center">
-          <div class="col-md-6">
-            <div class="card bg-default shadow border-0">
-              <img src="./assets/img/theme/img-1-1200x1000.jpg" class="card-img-top">
-              <blockquote class="card-blockquote">
-                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95" class="svg-bg">
-                  <polygon points="0,52 583,95 0,95" class="fill-default" />
-                  <polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default" />
-                </svg>
-                <h4 class="display-3 font-weight-bold text-white">Design System</h4>
-                <p class="lead text-italic text-white">The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever happens.</p>
-              </blockquote>
+          <div class="col-md-6 order-md-2">
+            <img src="./assets/img/theme/comp.jpg" class="img-fluid floating">
+          </div>
+          <div class="col-md-6 order-md-1">
+            <div class="pr-md-4">
+              <h3>A Collaborative Environment</h3>
+              <p>
+                 <span class="h6">We take a different approach to accountablity.</span> Informal meetings and dynamic schedules avoid hard deadlines while still enforcing progress towards team goals. Bi-weekly status updates, along with inter-team reports, keep teams on track.
+              </p>
+              <p>
+                 <span class="h6">Teams are pushed outside of their comfort zone.</span> Projects will require outside knowledge, research, and expertise to complete, however, teams are encouraged to tackle tasks that initially seem daunting.
+              </p>
+              <p>
+              <span class="h6">
+                  Each meeting alternates between building and learning.
+              </span>
+
+                 During work weeks, teams build and research their projects, however, outside time is required to make any real progress.
+              </p>
+              <p>
+                 During other weeks, topics about entrepreneurship or technology are taught, such as business model generation, go-to market strategy, blockchain, etc.
+              </p>
+
             </div>
           </div>
-          <div class="col-md-6">
-            <div class="pl-md-5">
-              <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5">
-                <i class="ni ni-settings"></i>
+        </div>
+      </div>
+    </section>
+    <section class="section section-lg pt-4 pb-5 mt-4 mb-0">
+      <div class="container">
+        <div class="card bg-gradient-warning shadow-lg border-0">
+          <div class="p-5">
+            <div class="row align-items-center">
+              <div class="col-lg-8">
+                <h3 class="text-white">Professional Developer Resources</h3>
+                <p class="lead text-white mt-5">There's no subsitute for great tools.
+                    So, our friends at GitHub have created the Student Developer Pack that makes expensive developer tools available to students (like us) for free.
+                </p>
+                <a href="https://education.github.com/pack" class="col-lg-4 mt-3 btn btn-lg btn-block btn-success">Get the Pack</a>
+
               </div>
-              <h3>Our customers</h3>
-              <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element. Just make sure you enable them first via JavaScript.</p>
-              <p>The kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go.</p>
-              <p>The kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go.</p>
-              <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful websites</a>
+              <div class="col mt-5">
+                  <img src="./assets/img/theme/github_pack.png" class="justify-content-centercol-sm-4 col-lg-12"/>
+              </div>
             </div>
           </div>
         </div>
