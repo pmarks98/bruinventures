@@ -32,7 +32,7 @@
                 <h1 class="display-3  text-white">
                   BV RESEARCH
                 </h1>
-                <p class="lead text-white ">Learn the fundamentals of startup research, modeled from due-diligence methods from venture capital firms.</p>
+                <p class="lead text-white ">BVResearch focuses on consultation for startups and venture capitalists via the eclectic specialties of our members. Our research has ranged from pivot analysis, in-depth market research, and product research to technical investment criteria</p>
                 <div class="btn-wrapper">
                   <a href="#" class="btn btn-info btn-icon mb-0 mb-sm-0">
                     <span class="btn-inner--icon"><i class="fa fa-code"></i></span>
