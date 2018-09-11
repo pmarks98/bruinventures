@@ -19,7 +19,7 @@
             <i class="fa fa-linkedin"></i>
           </a>
 
-          <a target="_blank" href="mailto:contact@uclabv.com" class="btn btn-neutral btn-icon-only btn-email btn-round btn-lg" data-toggle="tooltip" data-original-title="Connect with us">
+          <a target="_blank" href="mailto:contact@uclabv.com" class="btn btn-neutral btn-icon-only btn-email btn-round btn-lg" data-toggle="tooltip" data-original-title="Email us">
             <i class="fa fa-envelope"></i>
           </a>
 
@@ -51,13 +51,13 @@
         <div class="col-md-4">
           <ul class="nav nav-footer justify-content-end">
             <li class="nav-item">
-              <a href="./index.php" class="nav-link">Bruin Ventures</a>
+              <a href="./bvresearch.php" class="nav-link">BV Research</a>
             </li>
             <li class="nav-item">
-              <a href="./index.php" class="nav-link">About Us</a>
+              <a href="./bvbuild.php" class="nav-link">BV Build</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" target="_blank">Blog</a>
+              <a href="./bvconnect.php" class="nav-link">BV Connect</a>
             </li>
 
           </ul>

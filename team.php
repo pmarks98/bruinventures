@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-
-<title>Bruin Ventures | Our Team</title>
+<head>
+    <title>Our Team</title>
+    <meta name="description" content="Our club's greatest asset is our incredible team that drives this organization forward.">
 <?php
     include 'head.php';
 ?>
@@ -231,6 +232,16 @@
                     <div class="pt-4 text-center">
                       <h6 class="title">
                         <a href="https://www.linkedin.com/in/harrison-wynn-608b25126/" target="_blank" class="text-primary"><span class="d-block mb-0">Harrison Wynn <sup class="fa fa-linkedin small"></sup></span></a>
+                    </h6>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-2 col-md-3 mb-5">
+                  <div class="px-4">
+                    <img src="../assets/img/team/sol.png" class="rounded-circle img-center img-fluid shadow " style="width: 200px;">
+                    <div class="pt-4 text-center">
+                      <h6 class="title">
+                        <a href="https://www.linkedin.com/in/sol-lee-73ab97127/" target="_blank" class="text-primary"><span class="d-block mb-0">Sol Lee <sup class="fa fa-linkedin small"></sup></span></a>
                     </h6>
                     </div>
                   </div>
@@ -477,17 +488,6 @@
                       <h6 class="title">
                         <a href="https://www.linkedin.com/in/dillsl/" target="_blank" class="text-primary"><span class="d-block mb-0">Dillion Liang <sup class="fa fa-linkedin small"></sup></span></a>
                         <small class="h6 text-muted">Phoenix & Powell</small>
-                    </h6>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-2 mb-5">
-                  <div class="px-4">
-                    <img src="../assets/img/team/sol.png" class="rounded-circle img-center img-fluid shadow " style="width: 200px;">
-                    <div class="pt-4 text-center">
-                      <h6 class="title">
-                        <a href="https://www.linkedin.com/in/sol-lee-73ab97127/" target="_blank" class="text-primary"><span class="d-block mb-0">Sol Lee <sup class="fa fa-linkedin small"></sup></span></a>
-                        <small class="h6 text-muted">Techstars</small>
                     </h6>
                     </div>
                   </div>

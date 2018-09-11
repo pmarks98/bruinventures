@@ -31,7 +31,7 @@
             </a>
           </li>
           <li class="nav-item dropdown">
-              <a href="#programs" class="nav-link" data-toggle="dropdown" role="button">
+              <a href="#" class="nav-link" data-toggle="dropdown" role="button">
               <i class="fa fa-university d-lg-none"></i>
               <span class="nav-link-inner--text">Programs</span>
             </a>
@@ -43,7 +43,7 @@
                   </div>
                   <div class="media-body ml-3">
                     <h6 class="heading text-info mb-md-1">BV Research</h6>
-                    <p class="description d-none d-md-inline-block mb-0">Learn the fundamentals of startup research, modeled from due-diligence methods from venture capital firms.</p>
+                    <p class="description d-none d-md-inline-block mb-0">Learn the fundamentals of startup research, modeled after due-diligence methods from venture capital firms.</p>
                   </div>
                 </a>
                 <a href="./bvbuild.php" class="media d-flex align-items-center" data-toggle="scroll">

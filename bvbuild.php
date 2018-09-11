@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>BV Build</title>
+<meta name="description" content="A track devoted to brainstorming and developing a start-up, from the ground-up.">
 
-<title>Bruin Ventures | BV Build</title>
 <?php
     include 'head.php';
 ?>
@@ -32,17 +34,7 @@
                 <h1 class="display-3  text-white">
                   BV BUILD
                 </h1>
-                <p class="lead text-white ">A track devoted to brainstorming and developing a start-up from the ground-up.</p>
-                <!--<div class="btn-wrapper">
-                  <a href="#" class="btn btn-info btn-icon mb-0 mb-sm-0">
-                    <span class="btn-inner--icon"><i class="fa fa-code"></i></span>
-                    <span class="btn-inner--text">Components</span>
-                  </a>
-                  <a href="#" class="btn btn-white btn-icon mb-0 mb-sm-0">
-                    <span class="btn-inner--icon"><i class="ni ni-cloud-download-95"></i></span>
-                    <span class="btn-inner--text">Download HTML</span>
-                  </a>
-              </div>-->
+                <p class="lead text-white ">A track devoted to brainstorming and developing a start-up, from the ground-up.</p>
               </div>
             </div>
           </div>

@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-<title>Bruin Ventures</title>
+<head>
+    <meta name="description" content="Cultivating UCLA’s Leaders in Entrepreneurship, Technology, and Venture Capital.">
+    <title>Bruin Ventures</title>
 <?php
     include 'head.php';
-    //include("../includes/login.php");
 ?>
 
 <body>
@@ -30,7 +31,7 @@
             <div class="row justify-content-center align-items-center">
               <div class="col-lg-7 text-center pt-lg">
                 <img src="./assets/img/brand/white.png" style="width: 200px;" class="img-fluid">
-                <p class="lead text-white mt-5 mb-5">Cultivating UCLA’s Leaders in Entrepreneurship, Technology, and Venture Capital.</p>
+                <h1 class="lead text-white mt-5 mb-5">Cultivating UCLA’s Leaders in Entrepreneurship, Technology, and Venture Capital.</h1>
                 <div class="btn-wrapper mt-5">
                   <!--<a href="#section-components" class="btn btn-info btn-icon mb-3 mb-sm-0" data-toggle="scroll">
                     <span class="btn-inner--icon"><i class="fa fa-question-circle"></i></span>
@@ -66,7 +67,7 @@
                             <div class="col px-3 py-1 m-1 justify-center text-center border border-grey" style="background: #f4f5f7; border-radius: 0.3em;">
                                 <h5 class="text-primary">Info Session</h5>
                                 <p class="text-left m-0"><span class="font-weight-bold">When:</span> Tuesday, Oct. 9</p>
-                                <p class="text-left m-0"><span class="font-weight-bold">Time:</span> 6:00pm</p>
+                                <p class="text-left m-0"><span class="font-weight-bold">Time:</span> 7:00pm</p>
                                 <p class="text-left m-0"><span class="font-weight-bold">Where:</span> Hedrick Fireside Lounge</p>
 
                             </div>
@@ -135,8 +136,8 @@
           <div class="col px-0 mt-4 pb-4">
             <div class="row">
               <div class="col-lg-6">
-                <h1 class="display-2 text-white">Our Programs
-                </h1>
+                <h2 class="display-2 text-white">Our Programs
+                </h2>
                 <p class="lead  text-white"> A hands-on curriculum focused to help you break into the world of venture capital and entrepreneurship.</p>
                 <p class="text-white">BV's main programs are:</p>
 
@@ -145,7 +146,6 @@
           </div>
         </div>
       </section>
-      <!-- 1st Hero Variation -->
     </div>
     <section class="section section-lg pt-lg-0 mt--300">
       <div class="container">
@@ -176,7 +176,7 @@
                       <i class="fa fa-cogs"></i>
                     </div>
                     <h6 class="text-warning text-uppercase">BV Build</h6>
-                    <p class="description mt-3">A track devoted to brainstorming, developing, and building a startup from the ground-up.</p>
+                    <p class="description mt-3">A track devoted to brainstorming, developing, and building a start-up, from the ground-up.</p>
                     <div>
                       <span class="badge badge-pill badge-warning">Entrepreneurship</span>
                       <span class="badge badge-pill badge-warning">Programming</span>
@@ -230,8 +230,11 @@
                  <div class="col m-0">
                     <p class="m-0"><span class="h6">New Analyst Director: </span>Kevin Yu</p>
                     <p class="m-0 text-warning"><span class="h6">Email: </span><a href="#" class="text-warning">kyu@uclabv.com</a></p>
-                 </div>
-
+                </div>
+                 <div class="col m-0">
+                    <p class="m-0"><span class="h6">New Analyst Director: </span>Joseph Rainey</p>
+                    <p class="m-0 text-warning"><span class="h6">Email: </span><a href="#" class="text-warning">jrainey@uclabv.com</a></p>
+                </div>
              </div>
             </div>
           </div>
@@ -273,13 +276,13 @@
                             <div class="text-center text-muted mb-2">
                               <small>Sign in with your credentials</small>
                             </div>
-                            <form role="form" class="pb-0" method="POST" action="includes/login.php">
+                            <form role="form" class="pb-0">
                               <div class="form-group mb-3">
                                 <div class="input-group input-group-alternative">
                                   <div class="input-group-prepend">
                                     <span class="input-group-text"><i class="ni ni-email-83"></i></span>
                                   </div>
-                                  <input class="form-control" placeholder="Email" type="email" name="email">
+                                  <input class="form-control" placeholder="Email" type="email">
                                 </div>
                               </div>
                               <div class="form-group">
@@ -287,7 +290,7 @@
                                   <div class="input-group-prepend">
                                     <span class="input-group-text"><i class="ni ni-lock-circle-open"></i></span>
                                   </div>
-                                  <input class="form-control" placeholder="Password" type="password" name="password">
+                                  <input class="form-control" placeholder="Password" type="password">
                                 </div>
                               </div>
                               <div class="custom-control custom-control-alternative custom-checkbox">
@@ -297,7 +300,7 @@
                                 </label>
                               </div>
                               <div class="text-center">
-                                      <input type="submit" class="btn btn-primary mt-4 mb-0" value="Sign in">
+                                      <button type="button" class="btn btn-primary mt-4 mb-0">Sign in</button>
                               </div>
                             </form>
                           </div>

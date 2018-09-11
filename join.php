@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Join Us</title>
+    <meta name="description" content="Apply to be a part of Bruin Ventures.">
 
-<title>Bruin Ventures | Join Us</title>
 
 <?php
     include 'head.php';

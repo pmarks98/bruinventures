@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Portal Login</title>
+<meta name="description" content="Login to the BV Member Portal.">
 
-<title>Bruin Ventures | Portal</title>
 <?php
     include 'head.php';
 ?>
@@ -32,13 +34,13 @@
                 <div class="text-center text-muted mb-2">
                   <small>Sign in with your credentials</small>
                 </div>
-                <form role="form" class="pb-0" method="POST" action="includes/login.php">
+                <form role="form" class="pb-0">
                   <div class="form-group mb-3">
                     <div class="input-group input-group-alternative">
                       <div class="input-group-prepend">
                         <span class="input-group-text"><i class="ni ni-email-83"></i></span>
                       </div>
-                      <input class="form-control" placeholder="Email" type="email" name="email">
+                      <input class="form-control" placeholder="Email" type="email">
                     </div>
                   </div>
                   <div class="form-group">
@@ -46,7 +48,7 @@
                       <div class="input-group-prepend">
                         <span class="input-group-text"><i class="ni ni-lock-circle-open"></i></span>
                       </div>
-                      <input class="form-control" placeholder="Password" type="password" name="password">
+                      <input class="form-control" placeholder="Password" type="password">
                     </div>
                   </div>
                   <div class="custom-control custom-control-alternative custom-checkbox">
@@ -56,7 +58,7 @@
                     </label>
                   </div>
                   <div class="text-center">
-                          <input type="submit" class="btn btn-primary mt-4 mb-0" value="Sign in">
+                          <button type="button" class="btn btn-primary mt-4 mb-0">Sign in</button>
                   </div>
                 </form>
               </div>
